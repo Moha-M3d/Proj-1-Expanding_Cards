@@ -3,7 +3,7 @@
 ### 1. The Project
 This project is about creating `expanding cards`, which means all the cards will have an inactive state, in which they are all shrinked down to small width size, except the one that is active, that should be expanded to the expected normal width size. By using `JavaScript` the project should be `dynamic`, so that any hovered card should be expanded(active) and the others shrinked(inactive).
 
-### 2. Set Up The Project WorkFlow
+### 2. Set Up The Project Work Environment
 Initial Project Setup, which includes creating a `README.md` file, `index.html`, `assets/css/main.css` for the main css file, and a folder dedicated to project needed images `assets/images` 
 
 ### 3. The Project Styling & Responsiveness
